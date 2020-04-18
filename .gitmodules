@@ -1,0 +1,6 @@
+[submodule "parent/src/container/submodel-test"]
+	path = parent/src/container/submodel-test
+	url = https://github.com/jx120633120/submodel-test
+[submodule "parent/src/container/submodel_b"]
+	path = parent/src/container/submodel_b
+	url = https://github.com/jx120633120/submodel_b
